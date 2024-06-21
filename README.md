@@ -6,6 +6,15 @@ Drishti is an IoT-based assistive device designed to aid visually impaired indiv
 ## basic circuit diagram
 ![Alt Text](/iot.jpg)
 
+## flowchart
+![Alt Text](/UntitledDiagram.drawio.png)
+
+## range
+![Alt Text](/dristhi.drawio.png)
+
+## final product 
+![Alt Text](/mk1.jpeg)
+![Alt Text](/mk2.jpeg)
 ## Features
 
 - Obstacle detection using ultrasonic sensors in four directions (front, back, left, right)
